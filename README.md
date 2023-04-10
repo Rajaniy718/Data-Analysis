@@ -7,6 +7,7 @@ Data preparation and customer analytics:
    - Examine transaction data 
    - Examine customer data
    - Data analysis and customer segments
+   
 Data checks:
    - Creating and interpreting high level summaries of the data
    - Finding outliers and removing these (if applicable)
