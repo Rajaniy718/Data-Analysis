@@ -1,6 +1,7 @@
 # Python-Data-Analysis-And-Vizualization
 
 Quantium Retail project: 
+(QVI_transaction_data.csv and QVI_purchasing_behavior.csv)
 
 Data preparation and customer analytics:
    - Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
@@ -16,6 +17,7 @@ Data checks:
 # Data-Analysis-with-MS-Excel/Google-sheets
 
 KPMG
+(KAG_conversion_data)
 
 Data Quality Assessment
 Assessment of data quality and completeness in preparation for analysis
