@@ -13,11 +13,15 @@ Data checks:
    - Creating and interpreting high level summaries of the data
    - Finding outliers and removing these (if applicable)
    - Checking data formats and correcting (if applicable)
+   
+Datasets:
+   -  Transaction Data
+   -  Purcahsing Behavior
 
 # Data-Analysis-with-MS-Excel/Google-sheets
 
 KPMG
-(KAG_conversion_data)
+(KAG_conversion_data.csv)
 
 Data Quality Assessment
 
