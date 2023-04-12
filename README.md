@@ -20,9 +20,13 @@ KPMG
 (KAG_conversion_data)
 
 Data Quality Assessment
-Assessment of data quality and completeness in preparation for analysis
-Data Insights
-Targeting high value customers based on customer demographics and attributes.
+
+Identifying duplicates or overlaps for uniqueness.  
+Checking for mandatory fields, null values, and missing values to identify and fix data completeness. 
+Applying formatting checks for consistency.
+Using business rules with a range of values or default values and validity.
+Checking how recent the data is or when it was last updated identifies the recency or freshness of data. 
+Validating row, column, conformity, and value checks for integrity.
 
 Datasets:
 Customer Demographic 
