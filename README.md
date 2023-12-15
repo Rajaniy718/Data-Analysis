@@ -13,11 +13,13 @@ Task 1: Data preparation and customer analytics.
 - Examine transaction data. 
 - Examine customer data.
 - Data analysis and customer segments.
+  
 Data checks:
 
 - Creating and interpreting high level summaries of the data.
 - Finding outliers and removing these (if applicable).
 - Checking data formats and correcting (if applicable).
+
 Task 2: Experimentation and uplift testing.
 
 - Identify benchmark stores that allows to test the impact of the trial store layouts on customer sales.
