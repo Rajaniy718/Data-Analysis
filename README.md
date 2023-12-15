@@ -8,8 +8,8 @@
 
 Task 1: Data preparation and customer analytics.
 
-    - Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to 
-      generate insights and provide commercial recommendations.
+    - Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours
+      to generate insights and provide commercial recommendations.
     - Examine transaction data. 
     - Examine customer data.
     - Data analysis and customer segments.
@@ -30,7 +30,8 @@ Task 2: Experimentation and uplift testing.
 
 Task 3: Analytics and commercial application.
 
-    -  Actionable insights from your analysis and displaying it in a clear and concise way with minimal jargon.
+    -  Actionable insights from your analysis and displaying it in a clear and concise 
+       way with minimal jargon.
    
 Datasets:
 
