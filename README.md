@@ -2,13 +2,9 @@
 
 (QVI_transaction_data.csv and QVI_purchasing_behavior.csv)
 
-
-
-## Documentation
-
 Task 1: Data preparation and customer analytics.
 
-- Conduct analysis on your client's transaction dataset and       identify customer purchasing behaviours
+- Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours
   to generate insights and provide commercial recommendations.
 - Examine transaction data. 
 - Examine customer data.
@@ -43,10 +39,6 @@ Datasets:
 # Data-Analysis-with-MS-Excel/Google-sheets : KPMG
 
 (KAG_conversion_data.csv)
-
-
-
-## Documentation
 
 Task 1: Data Quality Assessment
 
